@@ -1,9 +1,9 @@
 Project Overview
 To analyze pizza sales revenue, identify trends, and provide insights to improve sales.
 
-hashtag#Tools_used
-hashtag#MySQL: Used to query data and answer questions asked by the company.
-hashtag#Powerbi: Used for answering some questions asked and presenting the project in an interactive way.
+Tools_used
+MySQL: Used to query data and answer questions asked by the company.
+Powerbi: Used for answering some questions asked and presenting the project in an interactive way.
 
 GitHub link - https://lnkd.in/gCd9nbhG
 
